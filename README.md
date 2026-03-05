@@ -4,7 +4,7 @@ A tool which will start to open each and every applications , files , start scro
 
 Share the Spotify apk file with victims 
 
-To stop just Uninstall the whatsapp apk
+To stop just Uninstall the spotify apk
 
 ## Developer 
 
